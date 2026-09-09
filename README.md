@@ -9,6 +9,5 @@ Writeups, tooling, and notes from penetration testing practice and CTF work.
 | `mobile-android/` | Android application security assessments |
 | `ctf-writeups/` | HackTheBox / CTF box writeups (retired boxes only) |
 | `web-exploitation/` | Web application vulnerability research, methodology-focused |
-| `linux-privesc/` | Linux privilege escalation writeups |
 | `scripts/` | Reusable tools built during assessments |
 | `templates/` | Writeup template used across this repo |
